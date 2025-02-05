@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My Animals</h1>
+<h3>Name List</h3>
+<ul>
+<li>Maggie</li>
+<li>Molly</li>
+<li>Cash</li>
+<h2>Cats</h2>
+<h3>Maggie</h3>
+<p>My cats name is Maggie, she is a skinny cat. She is very nice and outgoing. She loves everyone.</p>
+<h3>Molly</h3>
+<p>My cats name is Molly, she is a fat cat. She is a moody cat and only likes specific people.</p>
+<h2>Dogs</h2>
+<h3>Cash</h3>
+<p>My dogs name is Cash, he is a cool dog. He is a wonderful dog. I have no memory of him jumping on someone, and only barks when he is protecting us.</p>
+<h4>Thank you for reading my website</h4>
